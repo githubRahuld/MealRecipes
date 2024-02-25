@@ -76,8 +76,7 @@ function Footer() {
         © 2024 Copyright:
         <a
           className="text-neutral-800 dark:text-neutral-400"
-          href="https://tw-elements.com/"
-        >
+          href="https://meal-recipes-delta.vercel.app/"      >
           Banao or Khao👨‍🍳
         </a>
       </div>
